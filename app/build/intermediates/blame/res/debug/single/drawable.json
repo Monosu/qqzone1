@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_special.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnopenselector.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable\\btnopenselector.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yuanjiao.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable\\yuanjiao.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_button.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shuaxin.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable\\shuaxin.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_cancel.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_cancel.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yuanjiaobiankuang.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable\\yuanjiaobiankuang.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shuoshuo.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable\\shuoshuo.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addphotoselector.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable\\addphotoselector.xml"
+    }
+]

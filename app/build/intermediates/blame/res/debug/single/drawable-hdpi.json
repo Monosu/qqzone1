@@ -1,0 +1,1946 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_logo_word_login.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_logo_word_login.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_audiobubble_stop.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_audiobubble_stop.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_sitecover.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_sitecover.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_other_nodisplay.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_other_nodisplay.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_container_cell_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_container_cell_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_more.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_more.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_praise_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_praise_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_qq_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_qq_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_guide_words.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_guide_words.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_addapp.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_addapp.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_friends_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_friends_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_quickcomment.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_quickcomment.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_editphotos_brightness_one.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_editphotos_brightness_one.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_alertdialog.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_alertdialog.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_specialnews_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_specialnews_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_filter_v35_beauty.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_filter_v35_beauty.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_filter_v35_ori.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_filter_v35_ori.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_popupwindow_success.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_popupwindow_success.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_uploadhotos_sharp.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_uploadhotos_sharp.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_nav_back_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_nav_back_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_editphotos_brightness_one_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_editphotos_brightness_one_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_hostinfo_item_bottom.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_hostinfo_item_bottom.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_editphotos_watermark_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_editphotos_watermark_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_approve_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_approve_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_watermarkcamera.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_watermarkcamera.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\indicator_arrow.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_plus_appdownloads_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_plus_appdownloads_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_guide_star3.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_guide_star3.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_more_information_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_more_information_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_tabbar_indicator1.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_tabbar_indicator1.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_point_sitecover.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_point_sitecover.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_feed_comment.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_feed_comment.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_selectphoto_back.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_selectphoto_back.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_toolbar_new.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_toolbar_new.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_myfeed_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_myfeed_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_sitecover_cancel.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_sitecover_cancel.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_home_lock.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_home_lock.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_filter_v35_fall.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_filter_v35_fall.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_hostinfo_item_middle_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_hostinfo_item_middle_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_picture_registration_default.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_picture_registration_default.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_at_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_at_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_line_moretab_vertical.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_line_moretab_vertical.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_navbar_btn_back.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_navbar_btn_back.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_place.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_place.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_at_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_at_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_pictureviewer_arrow_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_pictureviewer_arrow_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_icon_praise.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_icon_praise.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_guide_array.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_guide_array.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_profile_top.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_profile_top.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_more_competence.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_more_competence.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_editphotos_rotation.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_editphotos_rotation.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_bin_delete_voice_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_bin_delete_voice_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_navbar_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_navbar_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_nav_back_disabled.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_nav_back_disabled.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_popupwindow_failed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_popupwindow_failed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_skin_navbar_back_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_skin_navbar_back_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_sitecover_photocapacity.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_sitecover_photocapacity.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_readingroom_add.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_readingroom_add.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_number.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_number.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_forward_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_forward_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_sitecover_enter.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_sitecover_enter.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_yellowdiamond_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_yellowdiamond_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_comm_feeds_selected.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_comm_feeds_selected.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_navbar_highlight_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_navbar_highlight_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_share_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_share_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_checkbox_friends_checked.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_checkbox_friends_checked.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_voice_grain.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_voice_grain.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_setcover_preview.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_setcover_preview.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_skin_navbar.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_skin_navbar.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_container_cell_top_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_container_cell_top_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_right_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_right_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_filterfeed_notseenews.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_filterfeed_notseenews.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_hostinfo_item_top_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_hostinfo_item_top_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_editphotos_delete.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_editphotos_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_selectphoto_select.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_selectphoto_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_video_play.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_video_play.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_gift_recording.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_gift_recording.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_h.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_h.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_yellowdiamond.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_yellowdiamond.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_checkbox_friends_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_checkbox_friends_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_imgnavbar_btn.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_imgnavbar_btn.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_home_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_home_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_bin_voice.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_bin_voice.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_normal_disabled.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_normal_disabled.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_favorites_disabled.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_favorites_disabled.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_more_site_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_more_site_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_one_focused.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_style_one_focused.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_re_disabled.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_re_disabled.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_photo_zoomout.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_photo_zoomout.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_gong_06.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_gong_06.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_audio_stop_medium.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_audio_stop_medium.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_container_cell_top_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_container_cell_top_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_pay_voice.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_pay_voice.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_check.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_check.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_gift_record_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_gift_record_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_watermarkvideo_broadcast.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_watermarkvideo_broadcast.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_skin_setup_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_skin_setup_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_toolbar_btn_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_toolbar_btn_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_seabar_search.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_seabar_search.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_filter_v35_color.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_filter_v35_color.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_filterfeed_blacklist.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_filterfeed_blacklist.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_selectphoto_select_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_selectphoto_select_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_readingroom_comment.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_readingroom_comment.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_gift_play.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_gift_play.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_weixin.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_weixin.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_skin_navbar_tab_r_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_skin_navbar_tab_r_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_navbar_highlight_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_navbar_highlight_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_readingroom_subscribed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_readingroom_subscribed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_comm_feeds_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_comm_feeds_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_navbar_highlight_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_navbar_highlight_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_watermarkvideo_toolbar_pause.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_watermarkvideo_toolbar_pause.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_outbox.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_outbox.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_watermarkcamera_cancel_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_watermarkcamera_cancel_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_alert_dialog_special_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_special_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_container_cell_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_container_cell_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_profile_top_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_profile_top_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_plus_appdownloads.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_plus_appdownloads.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_gong_07.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_gong_07.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_bin_record_voice_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_bin_record_voice_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_middle_gray_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_middle_gray_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_edit_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_edit_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_cancel_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_cancel_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_readingroom_add_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_readingroom_add_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_navbar_back_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_navbar_back_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_location_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_location_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_group_indicator_unexpand.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_group_indicator_unexpand.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_weibo_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_weibo_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_readingroom_subscribed_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_readingroom_subscribed_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_friendfeed_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_friendfeed_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_selectphoto_selectedamount.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_selectphoto_selectedamount.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_picture_highlight_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_picture_highlight_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_alertdiaglog_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_alertdiaglog_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_home_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_home_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_seabar.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_seabar.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_photo_friend.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_photo_friend.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_qzone.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_qzone.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_feed_forward.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_feed_forward.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_one_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_style_one_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_comment_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_comment_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_praise_clicked.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_praise_clicked.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_allnews_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_allnews_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_toolbar_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_toolbar_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_filterfeed_specialcare.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_filterfeed_specialcare.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_bg.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_approve_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_approve_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_more_site.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_more_site.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_hostinfo_item_top.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_hostinfo_item_top.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mask_addapp_other.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\mask_addapp_other.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_turn_left.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_turn_left.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_audio_stop_big.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_audio_stop_big.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_pictureviewer_praise_clicked.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_pictureviewer_praise_clicked.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_watermarkcamera_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_watermarkcamera_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_gift_recordover.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_gift_recordover.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_refresh_up.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_refresh_up.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_navbar_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_navbar_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_photo_progress.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_photo_progress.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_ptr_rotate.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_qq_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_qq_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_video.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_video.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_pictureviewer_praise_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_pictureviewer_praise_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_friendnews_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_friendnews_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_at_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_at_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_dimensionalcode.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_dimensionalcode.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_qzone_not_open.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_qzone_not_open.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_gong_02.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_gong_02.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_blog_hasvedio.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_blog_hasvedio.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_gift_record.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_gift_record.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_home_key.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_home_key.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_middle_delete_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_middle_delete_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_keyboard_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_keyboard_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_forward.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_forward.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\butn_close.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\butn_close.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_guide_star4.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_guide_star4.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_photo_permission_friend.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_photo_permission_friend.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_skin_navbar_back_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_skin_navbar_back_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_picture_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_picture_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_hascollection_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_hascollection_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_profile_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_profile_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_bin_record_voice_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_bin_record_voice_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_list_title.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_list_title.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_turn_right.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_turn_right.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_sitecover_albums.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_sitecover_albums.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_feed_visitors.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_feed_visitors.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_loding_dialog.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_loding_dialog.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_add_photo_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_add_photo_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_moretab_seabar_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_moretab_seabar_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_picture_highlight_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_picture_highlight_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_delete.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_picture_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_picture_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_emo.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_emo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_feed_gift_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_feed_gift_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\imgnavbar_bg.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\imgnavbar_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_comm_highlight.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_comm_highlight.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_addmore.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_addmore.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_camera.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_guide_skip.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_guide_skip.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_alert_dialog_button_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_navbar_drop_down.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_navbar_drop_down.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_point_sitecover_blue.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_point_sitecover_blue.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_face_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_face_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_feed_gift_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_feed_gift_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_rim_skinset.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_rim_skinset.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_comment.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_comment.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_delete_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_delete_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_enlarge.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_enlarge.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_edit_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_edit_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_color_favorites.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_color_favorites.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_icon_praisec_clicked.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_icon_praisec_clicked.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_seal_default.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_seal_default.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_filter_v35_tiltshift.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_filter_v35_tiltshift.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_icon_comment_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_icon_comment_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_editphotos_brightness.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_editphotos_brightness.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_oldgift_edit.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_oldgift_edit.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_watermarkcamera_cancel.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_watermarkcamera_cancel.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_readingroom_add.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_readingroom_add.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_imgnavbar_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_imgnavbar_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_other_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_other_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_registration.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_registration.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_shadow.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_shadow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_feed_comment.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_feed_comment.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_filter_divider.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_filter_divider.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_keyboard_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_keyboard_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_feed_praise.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_feed_praise.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_relation_unfollow.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_relation_unfollow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_location_add.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_location_add.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_gong_04.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_gong_04.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_icon_praise_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_icon_praise_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_h_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_h_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_pengyouquan.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_pengyouquan.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_gift_record_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_gift_record_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_friends_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_friends_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_list_arrow.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_list_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_plus.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_plus.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_alert_dialog_button_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_button_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_normal_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_normal_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_comment.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_comment.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_skin_navbar_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_skin_navbar_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_face_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_face_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_imgnavbar_btn_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_imgnavbar_btn_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_audiobubble_overlay_clicked.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_audiobubble_overlay_clicked.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_default_avatar.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_default_avatar.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_profile_addfriend.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_profile_addfriend.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_popupwindow.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_popupwindow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_separator.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_separator.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_moretab_seabar.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_moretab_seabar.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_comment_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_comment_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_registrationexpression_recently.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_registrationexpression_recently.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_icon_comment.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_icon_comment.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_journal_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_journal_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_home_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_home_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_feeds_competence.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_feeds_competence.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_watermarkvideo_broadcast_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_watermarkvideo_broadcast_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_navbar_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_navbar_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_watermarkvideo_broadcast.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_watermarkvideo_broadcast.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_addmore_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_addmore_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_skin_navbar_tab_l_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_skin_navbar_tab_l_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_skin_navbar_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_skin_navbar_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_more_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_more_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_alert_dialog_background.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_background.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_readingroom_subscribed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_readingroom_subscribed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_turn_left_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_turn_left_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_loading.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_loading.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_keyboard_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_keyboard_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_myfeed_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_myfeed_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_keyboard_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_keyboard_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_more_information.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_more_information.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_refresh_down.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_refresh_down.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_videocamera.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_videocamera.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_inputbox_comment.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_inputbox_comment.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_alert_dialog_special_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_special_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_bin_delete_voice_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_bin_delete_voice_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_color_visitor.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_color_visitor.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_album.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_album.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_videocamera_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_videocamera_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_beginnersguide_cover.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_beginnersguide_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_profile.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_profile.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_watermarkvideo_toolbar_broadcast.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_watermarkvideo_toolbar_broadcast.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_add_photo_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_add_photo_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_editphotos_virtual.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_editphotos_virtual.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_bin_play_voice_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_bin_play_voice_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_guide_star1.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_guide_star1.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_gift_recorddelete_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_gift_recorddelete_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_plus_appdownloads_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_plus_appdownloads_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_locate_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_locate_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_nav_publish_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_nav_publish_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_tabbar_indicator3.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_tabbar_indicator3.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_sitecover_yellowdiamond.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\bg_sitecover_yellowdiamond.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_skin_navbar_tab_m_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_skin_navbar_tab_m_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_alertdiaglog_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_alertdiaglog_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_has_photo.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_has_photo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_ptr_flip.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_open_vip_arrow.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_open_vip_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_open_vip.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_open_vip.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_location_addcustom.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_location_addcustom.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_more_competence_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_more_competence_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_login.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\logo_login.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_add_photo_tips.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_add_photo_tips.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_praise_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_praise_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_home_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_home_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line_more_vertical.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\line_more_vertical.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_uploadhotos.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_uploadhotos.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\filter_tv_overlay.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\filter_tv_overlay.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_beginnersguide_lbs_sign.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_beginnersguide_lbs_sign.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_copy_point.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_copy_point.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_qq.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_qq.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_middle_cancel_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_middle_cancel_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_navbar_btn_back_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_navbar_btn_back_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_refresh.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_refresh.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_open_vip.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_open_vip.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_home_follow.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_home_follow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\con_watermarkvideo_porogressbar_notplay.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\con_watermarkvideo_porogressbar_notplay.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_location.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_location.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_beginnersguide_photo.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_beginnersguide_photo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_feeds_gift.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_feeds_gift.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_color_gift.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_color_gift.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_addapp_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_addapp_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_enlarge.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_enlarge.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\thirdparty_btn_popup_other_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\thirdparty_btn_popup_other_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_bin_play_voice_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_bin_play_voice_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_comment_disabled.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_comment_disabled.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_color_flowervine.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_color_flowervine.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_editphotos_brightness_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_editphotos_brightness_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_blog_haspic.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_blog_haspic.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_filter_v35_sunshine.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_filter_v35_sunshine.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_comm_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_comm_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_praise_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_praise_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_dialog_waitting_white.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_dialog_waitting_white.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_photo_all.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_photo_all.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_middle_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_middle_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_registration_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_registration_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_color_readingcenter.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_color_readingcenter.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\con_watermarkvideo_porogressbar_played.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\con_watermarkvideo_porogressbar_played.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\filter_oldtv_mask.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\filter_oldtv_mask.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_tabbar_indicator2.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_tabbar_indicator2.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_container_cell_bottom_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_container_cell_bottom_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_expression_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_expression_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_forward.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_forward.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_home_unfollow.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_home_unfollow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_favorites_clicked.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_favorites_clicked.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_hostinfo_item_middle.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_hostinfo_item_middle.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_h_disabled.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_h_disabled.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_seabar_input.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_seabar_input.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_plusback.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_plusback.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_gift_record.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_gift_record.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_pictureviewer_arrow.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_pictureviewer_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_cancel_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_cancel_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_audiobubble_bg.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_audiobubble_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_sign.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_sign.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_lbs_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_lbs_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_praise.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_praise.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_selectphoto_selectedamount.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\bg_selectphoto_selectedamount.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_lift_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_lift_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_comm_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_comm_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_hascollection.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_hascollection.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_black_skin.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_black_skin.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_nav_publish_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_nav_publish_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_collection_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_collection_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_friendnews_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_friendnews_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\com_tencent_component_default_ptr.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\com_tencent_component_default_ptr.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_site_deletecheck.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_site_deletecheck.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_tabbar_point_new.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_tabbar_point_new.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_feeds_longpic.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_feeds_longpic.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_gong_01.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_gong_01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_filter_v35_film.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_filter_v35_film.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_talk.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_talk.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_video.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_video.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_nav_back_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_nav_back_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_selectphoto.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_selectphoto.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_middle_gray_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_middle_gray_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_specialnews_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_specialnews_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_yellowdiamond_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_yellowdiamond_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_transferphotos_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_transferphotos_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_weibo_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_weibo_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\butn_open.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\butn_open.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_allnews_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_allnews_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_qzone_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_qzone_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_share.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_share.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_skin_navbar_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_skin_navbar_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_editphotos_watermark.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_editphotos_watermark.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_downloadlocal_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_downloadlocal_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_guide_star2.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_guide_star2.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_photo_transform.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_photo_transform.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_comm_feeds_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_comm_feeds_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\filter_fall.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\filter_fall.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\filter_corner_mask.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\filter_corner_mask.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_imgnavbar.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_imgnavbar.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_pictureviewer_praise.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_pictureviewer_praise.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_place_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_place_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_icon_praise_disabled.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_icon_praise_disabled.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_skin_toolbar_btn_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_skin_toolbar_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_skin_navbar_tab_m_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_skin_navbar_tab_m_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_comment_feeds_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_comment_feeds_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_group_indicator_expand.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_group_indicator_expand.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_icon_comment_disabled.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_icon_comment_disabled.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_middle_red_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_middle_red_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_at_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_at_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_filter_v35_bw.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_filter_v35_bw.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_split_line.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_split_line.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_skin_navbar_tab_l_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_skin_navbar_tab_l_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_editphotos_virtual_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_editphotos_virtual_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_close.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_close.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_expression_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_expression_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_downloadlocal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_downloadlocal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_lbs_press.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_lbs_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_forward_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_forward_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_feed_gift.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_feed_gift.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_gift_recorddelete_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_gift_recorddelete_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\com_tencent_open_notice_dl_icon.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\com_tencent_open_notice_dl_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_blog_hasmusic.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_blog_hasmusic.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_audiobubble_play.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_audiobubble_play.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_praise_disabled.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_praise_disabled.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_more.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_more.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_alert_dialog_cancel_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_cancel_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_editphotos_rotation_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_editphotos_rotation_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_del_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_del_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_re.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_re.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_journal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_journal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_color_friends.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_color_friends.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_circle_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_circle_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_more_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_more_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_cover.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_audiobubble_overlay.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_audiobubble_overlay.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_collection.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_collection.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_enlarge_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_enlarge_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_toolbar_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_toolbar_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_delete.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_skin_navbar_back_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_skin_navbar_back_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_middle_cancel_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_middle_cancel_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_one_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_style_one_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_photo_rotation.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_photo_rotation.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_profile_bottom.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_profile_bottom.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_profile_middle_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_profile_middle_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_dimensionalcode_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_dimensionalcode_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_hostinfo_item_bottom_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_hostinfo_item_bottom_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_filter_v35_oldtv.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_filter_v35_oldtv.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_add.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_add.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_album_bottom.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_album_bottom.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_sitecover_camera.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_sitecover_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_locate_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_locate_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_gong_05.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_gong_05.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_del_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_del_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_camera_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_camera_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_video_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_video_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_profile_bottom_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_profile_bottom_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_photo_question.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_photo_question.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_forward_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_forward_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_readingroom_praise.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_readingroom_praise.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_editphotos_delete_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_editphotos_delete_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mask_uploadphotos_uploadphoto.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\mask_uploadphotos_uploadphoto.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_newphotos.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\bg_newphotos.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_container_arrow.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_container_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_beginnersguide_shuoshuo.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_beginnersguide_shuoshuo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_gong_03.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_gong_03.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_skin_setup_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_skin_setup_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_nav_publish_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_nav_publish_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_copy.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_copy.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_sitecover_upload.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_sitecover_upload.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_more_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_more_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_more_edit.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_more_edit.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_talk_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_talk_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_photo_self.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_photo_self.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_middle_delete_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_middle_delete_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_toolbar_friendfeed_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_toolbar_friendfeed_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_one_disabled.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_style_one_disabled.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_pictureviewer_comment.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_pictureviewer_comment.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_comm_feeds_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_comm_feeds_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_favorites.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_favorites.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_re_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_re_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_add_photo.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_add_photo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_filter_v35_lomo.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_filter_v35_lomo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\warning_notification.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\warning_notification.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_turn_right_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_turn_right_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabbar_btn_popup_transferphotos.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\tabbar_btn_popup_transferphotos.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_black_loading.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_black_loading.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_more_disabled.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_more_disabled.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\filter_jiaopian_bg.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\filter_jiaopian_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_detail_toolbar_icon_favorites_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_detail_toolbar_icon_favorites_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_filter_v35_curve.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_filter_v35_curve.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_enter.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_enter.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_btn_album_add.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_btn_album_add.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_profile_middle.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_profile_middle.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_check_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\icon_check_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_pull_to_refresh.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_pull_to_refresh.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_bg_skin_navbar_tab_r_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_skin_navbar_tab_r_normal.9.png"
+    }
+]

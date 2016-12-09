@@ -1,0 +1,822 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bubble_popup_arrow_down_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bubble_popup_arrow_down_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_sand.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_sand.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_download_button.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_download_button.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_hostinfo_item_middle.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_hostinfo_item_middle.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_h_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_h_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_toolbar_home_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_toolbar_home_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_thunderstorms.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_thunderstorms.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_toolbar_camera_highlight_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_toolbar_camera_highlight_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_feeds_longpic.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_feeds_longpic.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_item_mask.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_item_mask.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_registrationexpression_rightpull.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\bg_registrationexpression_rightpull.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_splashscreen_logo.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_splashscreen_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_yellowdiamond.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_yellowdiamond.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_widget_loading_04.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_widget_loading_04.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_skin_navbar_tab_l_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_skin_navbar_tab_l_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_skin_navbar_back_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_skin_navbar_back_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_yellowdiamond_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_yellowdiamond_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow_down.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\arrow_down.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_five.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_five.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_calendar.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_calendar.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_feed_praise.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\icon_feed_praise.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bubble_popup_bg.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bubble_popup_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_detail_toolbar_icon_favorites.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_detail_toolbar_icon_favorites.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_sitecover_yellowdiamond.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\bg_sitecover_yellowdiamond.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_expression_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_expression_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_profile_middle_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\btn_profile_middle_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_mostlycloudysun.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_mostlycloudysun.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_middle_cancel_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_middle_cancel_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mask_addapp_other.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\mask_addapp_other.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_feed_visitors.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\icon_feed_visitors.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_gift_camera.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\icon_gift_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_gift_edittext.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\bg_gift_edittext.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_widget_loading_02.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_widget_loading_02.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_profile_top_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\btn_profile_top_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_widget_loading_08.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_widget_loading_08.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_detail_toolbar_icon_favorites_disabled.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_detail_toolbar_icon_favorites_disabled.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_to.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_to.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_registrationexpression_default.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\icon_registrationexpression_default.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_selectphoto_selectedamount.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\bg_selectphoto_selectedamount.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\point_registrationexpression.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\point_registrationexpression.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_toolbar_camera_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_toolbar_camera_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_navbar_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_navbar_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\container_cell_bottom_dropdown.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\container_cell_bottom_dropdown.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_skin_navbar_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_skin_navbar_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_more.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_more.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_three.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_three.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_feed_gift_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_feed_gift_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\friendlist_divider.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\friendlist_divider.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_0.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_0.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_huangli.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_huangli.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_degreescelsius.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_degreescelsius.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_profile.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\btn_profile.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_hostinfo_item_bottom_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_hostinfo_item_bottom_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_skin_navbar_tab_r_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_skin_navbar_tab_r_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_constellation_star.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_constellation_star.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_hostinfo_item_top_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_hostinfo_item_top_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gift_list_item_bg.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\gift_list_item_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_widget_thumb_icon_lunar.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_widget_thumb_icon_lunar.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_sun.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_sun.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_hostinfo_item_bottom.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_hostinfo_item_bottom.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_navbar_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_navbar_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\thirdparty_btn_popup_other_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\thirdparty_btn_popup_other_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_avoid.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_avoid.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\container_btn_bg_highlight_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\container_btn_bg_highlight_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_widget_loading_01.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_widget_loading_01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_nav_publish_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_nav_publish_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_readingroom_add_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_readingroom_add_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_toolbar_more_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_toolbar_more_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_yellowdiamond_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_yellowdiamond_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_eight.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_eight.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_twenty.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_twenty.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_2.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_2.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_container_cell_top_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_container_cell_top_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_normal_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_normal_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_8.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_8.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\container_btn_bg_highlight_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\container_btn_bg_highlight_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_plus_appdownloads_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\btn_plus_appdownloads_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_toolbar_myfeed_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_toolbar_myfeed_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_del.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\icon_del.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_detail_toolbar_icon_favorites_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_detail_toolbar_icon_favorites_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checkbox_on.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\checkbox_on.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_one.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_one.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_7.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_7.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_at_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_at_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_widget_bg_lunar.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_widget_bg_lunar.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_skin_navbar_tab_m_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_skin_navbar_tab_m_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\feed_img_loading.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\feed_img_loading.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checkbox_off.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\checkbox_off.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_1.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_1.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_vip_only.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_vip_only.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_registration_yellowdiamond_small.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\icon_registration_yellowdiamond_small.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_rain.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_rain.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bubble_popup_bg_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bubble_popup_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\point_registrationexpression_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\point_registrationexpression_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\con_comment_bg.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\con_comment_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_lbs_press.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_lbs_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_addapp.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\btn_addapp.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_container_cell_bottom_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_container_cell_bottom_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_widget_load_fail_constellation.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_widget_load_fail_constellation.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_toolbar_friendfeed_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_toolbar_friendfeed_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_widget_loading_06.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_widget_loading_06.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_qzone_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_qzone_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_watermarkcamera_watermark.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\bg_watermarkcamera_watermark.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_hostinfo_item_middle_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_hostinfo_item_middle_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_alertdiaglog_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_alertdiaglog_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_readingroom_add.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_readingroom_add.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_skin_navbar_tab_l_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_skin_navbar_tab_l_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_feed_comment.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_feed_comment.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_profile_middle.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\btn_profile_middle.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_constellation_starry.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_constellation_starry.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bubble_popup_arrow_up.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bubble_popup_arrow_up.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_moon.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_moon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_logo_word_login.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_logo_word_login.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_widget_loading_05.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_widget_loading_05.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_uploadhotos.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\btn_uploadhotos.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_avatar_mask.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_avatar_mask.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_widget_thumb_icon_weather.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_widget_thumb_icon_weather.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_expression_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_expression_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_keyboard_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_keyboard_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_wind.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_wind.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_belowzero.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_belowzero.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_fog.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_fog.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_alertdiaglog_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_alertdiaglog_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_skin_navbar_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_skin_navbar_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_h.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_h.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_widget_loading_07.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_widget_loading_07.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_at_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_at_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_skin_navbar_tab_r_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_skin_navbar_tab_r_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_sitecover.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_sitecover.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_feed_comment.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\icon_feed_comment.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_more_lift_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_more_lift_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_two.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_two.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_readingroom_subscribed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_readingroom_subscribed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_plus_appdownloads_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\btn_plus_appdownloads_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_six.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_six.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_widget_thumb_icon_constellation.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_widget_thumb_icon_constellation.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_nav_publish_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_nav_publish_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_more_middle_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_more_middle_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_lunarcalendar.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_lunarcalendar.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_suitable.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_suitable.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_lbs_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_lbs_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_middle_red_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_middle_red_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_comm_feeds_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_comm_feeds_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_container_cell_top_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_container_cell_top_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bubble_popup_arrow_down.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bubble_popup_arrow_down.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_comm_feeds_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_comm_feeds_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_more_right_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_more_right_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_middle_cancel_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_middle_cancel_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_hostinfo_item_top.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_hostinfo_item_top.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_mostlycloudymoon.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_mostlycloudymoon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_readingroom_subscribed_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_readingroom_subscribed_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_login.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\logo_login.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_plus_appdownloads.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\btn_plus_appdownloads.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_6.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_6.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_3.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_3.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\friendlist_item_sub_middle.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\friendlist_item_sub_middle.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_comm_feeds_selected.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_comm_feeds_selected.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_pull_to_refresh.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_pull_to_refresh.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_5.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_skin_navbar_back_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_skin_navbar_back_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_toolbar_camera_highlight_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_toolbar_camera_highlight_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_gift_card.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\bg_gift_card.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_fg_cover_selected.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_fg_cover_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\container_btn_bg_highlight.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\container_btn_bg_highlight.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_4.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_4.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_cloudyday.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_cloudyday.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_comm_feeds_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_comm_feeds_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_skin_navbar_back_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_skin_navbar_back_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_toolbar_normal.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_toolbar_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_inputbox_comment.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_inputbox_comment.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\friendlist_searchbox_bg.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\friendlist_searchbox_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_snow.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_snow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_toolbar_camera_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_toolbar_camera_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_middle_red_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_middle_red_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_four.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_four.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_navbar_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_navbar_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_sleet.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_sleet.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_feed_gift_click.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_feed_gift_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_publish_queue_result_notice.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_publish_queue_result_notice.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_seven.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_seven.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_skin_navbar_tab_m_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_skin_navbar_tab_m_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\feed_img_failure.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\feed_img_failure.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_profile_top.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\btn_profile_top.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bubble_popup_arrow_up_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bubble_popup_arrow_up_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_nine.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_nine.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_skin_navbar_pressed.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_skin_navbar_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_toolbar_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_toolbar_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_first.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_first.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\container_cell_middle_dropdown.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\container_cell_middle_dropdown.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_lunar_ten.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_ten.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_feeds_gift.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_feeds_gift.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_normal_disabled.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_normal_disabled.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_nav_publish_none.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_nav_publish_none.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_icon_keyboard_pressed.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_icon_keyboard_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_pressed_holo_light.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_addapp_click.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\btn_addapp_click.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_h_disabled.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_h_disabled.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_detail_toolbar_icon_favorites_clicked.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_detail_toolbar_icon_favorites_clicked.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_newphotos.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\bg_newphotos.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_widget_loading_03.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_widget_loading_03.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_selected.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_edit_normal.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_edit_normal.9.png"
+    }
+]

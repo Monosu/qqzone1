@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tat_activity_main.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\tat_activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mood_activity.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\mood_activity.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\t4.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\t4.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhong.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\zhong.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_user_firnd.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\activity_add_user_firnd.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\t1.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\t1.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_journal_list_item.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\list_journal_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\journal_layout_context.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\journal_layout_context.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_user_firend_item.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\add_user_firend_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\relavant_layout.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\relavant_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\more_layout.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\more_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\tab.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_item.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\photo_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_layout.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\news_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\journal_layout.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\journal_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_activity_main.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\register_activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ta04.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\ta04.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\find_psd_activity_main.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\find_psd_activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\t3.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\t3.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiangce_image.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\xiangce_image.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_image_layout.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\list_image_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_pic_layout.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\select_pic_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\t5.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\t5.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\t2.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\t2.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_title.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\top_title.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab04.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\tab04.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mzone_layout.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\layout\\mzone_layout.xml"
+    }
+]

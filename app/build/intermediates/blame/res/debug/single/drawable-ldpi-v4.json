@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\tianjiayingyong.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-ldpi\\tianjiayingyong.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\myfeed.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-ldpi\\myfeed.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\shiping.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-ldpi\\shiping.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\shaixuan.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-ldpi\\shaixuan.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\friendfeed.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-ldpi\\friendfeed.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\loginbt.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-ldpi\\loginbt.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\homebg.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-ldpi\\homebg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\shuoshuo.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-ldpi\\shuoshuo.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\shuiyingxiangji.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-ldpi\\shuiyingxiangji.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\zhaopian.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-ldpi\\zhaopian.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\qiandao.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-ldpi\\qiandao.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\tabhome.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-ldpi\\tabhome.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\more.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-ldpi\\more.xml"
+    }
+]

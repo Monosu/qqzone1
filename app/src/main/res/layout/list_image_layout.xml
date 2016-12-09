@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="#22262E"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/cancal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/qz_btn_skin_navbar_back_normal"
+            android:onClick="returnup"
+            android:text="返回"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/cancal"
+            android:layout_alignBottom="@+id/cancal"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/btn_mood"
+            android:onClick="newxiangce"
+            android:text="新相册"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/button1"
+            android:background="@drawable/qz_bg_imgnavbar_btn"
+            android:text="最近" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="66dp"
+            android:layout_toRightOf="@+id/cancal"
+            android:background="@drawable/qz_bg_imgnavbar_btn"
+            android:text="列表" />
+
+    </RelativeLayout>
+	<LinearLayout 
+	    android:orientation="horizontal"
+	    android:layout_height="60dp"
+	    android:layout_width="match_parent">
+	    <LinearLayout 
+	    android:orientation="horizontal"
+	    android:layout_height="fill_parent"
+	    android:layout_width="0dp"
+	    android:gravity="center"
+	    android:background="#DDDDDD"
+	    android:layout_weight="1">
+	    <ImageView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/qz_icon_sitecover_camera"
+	        />
+	    <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="拍照"/>
+	</LinearLayout>
+	<LinearLayout 
+	    android:orientation="horizontal"
+	    android:layout_height="fill_parent"
+	    android:layout_width="0dp"
+	    android:gravity="center"
+	    android:background="#DDDDDD"
+	    android:layout_weight="1">
+	    <ImageView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/qz_icon_sitecover_upload"
+	        />
+	    <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="手机照片"/>
+	</LinearLayout>
+	</LinearLayout>
+	<ListView 
+	    android:id="@+id/mylistview"
+	    android:layout_width="fill_parent"
+	    android:layout_weight="1"
+	    android:layout_height="0dp"></ListView>
+</LinearLayout>

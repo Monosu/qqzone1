@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="title_activity_add_user_firnd">添加好友</string>
+    <string name="app_name">qzone</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="one">第一个界面</string>
+    <string name="two">第二个界面</string>
+    <string name="three">第三个界面</string>
+    <string name="four">第四个界面</string>
+    <string name="five">第五个界面</string>
+    <string name="shezhi">设置</string>
+    <string name="zhanghao">QQ号/手机号/邮箱</string>
+    <string name="psd">密码</string>
+    <string name="denglu">登录</string>
+    <string name="zhaohui">找回密码</string>
+    <string name="zhuce">新注册</string>
+    <string name="shuoshuo">说说</string>
+    <string name="zhaopian">照片</string>
+    <string name="xiangji">水印相机</string>
+    <string name="shipin">视频</string>
+    <string name="qiandao">签到</string>
+    <string name="tianjiayy">添加应用</string>
+    <string name="shaixuan">筛选</string>
+    <string name="fanhui">返回</string>
+    <string name="dongtai">全部动态</string>
+    <string name="yuwo">与我相关</string>
+    <string name="wode"></string>
+    <string name="gengduo">更多</string>
+    <string name="okpsd">确认密码</string>
+    <string name="zhuce_zhu">注册</string>
+    <string name="huangzuan">开通黄钻 </string>
+    <string name="quxiao">取消</string>
+    <string name="fabiao">发表</string>
+    <string name="xieshuoshuo">写说说</string>
+    <string name="editxie">写点什么吧....</string>
+    <string name="shuiyin">水印相机</string>
+    <string name="congxiangce">从手机相册选择</string>
+    <string name="xitong_xiangji">系统相机</string>
+    <string name="quanxian">权限设置</string>
+    <string name="kejian">所有人可见 ></string>
+    <string name="shangchuan_gaoqing">上传高清图片</string>
+    <string name="fenxiangdao">分享到：</string>
+    <string name="xianshiadd">显示所在位置</string>
+    <!-- 我的空间数据 -->
+    <string name="Mzone_zhaopian">照片</string>
+    <string name="Mzone_rizhi">日志</string>
+    <string name="Mzone_shuoshuo">说说</string>
+    <string name="Mzone_liuyan">留言</string>
+    <string name="Mzone_fangke">访客</string>
+    <string name="Mzone_liwu">礼物</string>
+    <string name="Mzone_haoyou">好友</string>
+    <string name="Mzone_yueduzhongxin">阅读中心</string>
+    <string name="Mzone_shoucangjia">收藏夹</string>
+    <string name="Mzone_huateng">花藤</string>
+    <string name="Mzone_one">524</string>
+    <string name="Mzone_two">63</string>
+    <string name="Mzone_three">589</string>
+    <string name="Mzone_four">14</string>
+    <!-- 相册 -->
+    <string name="xiangce_liebiao">列表</string>
+    <string name="xiangce_zuijin">最近</string>
+    <string name="xiangce_newxiangce">新相册</string>
+    <string name="xiangce_xinjianxiangce">新建相册</string>
+    <string name="xiangce_xinjian">新建</string>
+    <string name="paizhao">拍照</string>
+    <string name="shouji_zhaopian">手机照片</string>
+    <!-- 新建相册 -->
+    <string name="new_mingcheng">名称</string>
+    <string name="new_mingcheng_ed">相册名称，最多30个字</string>
+    <string name="new_miaoshu">描述</string>
+    <string name="new_miaoshu_ed">相册描述，最多200个字</string>
+    <string name="new_xiangceyinsi">相册隐私</string>
+    <string name="new_suoyouren_kejian">所有人可见</string>
+    <string name="new_haoyou_kejian">好友可见</string>
+    <string name="new_huida_kejian">回答问题可见</string>
+    <string name="new_zhiding_kejian">指定好友可见</string>
+    <string name="new_ziji_kejian">仅自己可见</string>
+
+</resources>

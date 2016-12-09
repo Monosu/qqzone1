@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="90dip"
+    android:orientation="horizontal" 
+    android:padding="10dip">
+    <ImageView android:id="@+id/imguserHead" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/default_userhead"/>
+	<RelativeLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="5dip">
+	    <TextView android:id="@+id/txtname" android:layout_alignParentTop="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="昵称:心在流浪"/>
+	    <TextView android:id="@+id/txtsex" android:layout_alignParentBottom="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="性别:男"/> 
+	    <TextView android:id="@+id/txtregisterTime" android:layout_alignTop="@id/txtsex" android:layout_toRightOf="@id/txtsex" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="注册时间：" android:layout_marginLeft="5dip"/>
+	    <Button android:id="@+id/btnaddfriend"  android:layout_centerVertical="true" android:layout_alignParentRight="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="添加好友"/>
+	    <Button android:id="@+id/btndeletefriend" android:layout_centerVertical="true" android:layout_alignParentRight="true" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="删除好友"/>
+	    
+	</RelativeLayout>
+</LinearLayout>

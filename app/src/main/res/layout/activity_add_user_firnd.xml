@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+     tools:context=".AddUserFirnd"
+     android:orientation="vertical" >
+     <LinearLayout 
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:orientation="horizontal">
+         <EditText android:id="@+id/txtname" 
+             android:layout_weight="1" 
+             android:layout_width="wrap_content" 
+             android:layout_height="wrap_content" 
+             android:hint="请输入关键字"/>
+		<Button android:id="@+id/btnselect" 
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:text="搜索"/>
+     </LinearLayout>
+
+     <com.higgs.qqzone1.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/dataList"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:scrollbars="none" 
+	     xmlns:ptr="http://schemas.android.com/apk/res-auto"
+	     ptr:ptrAnimationStyle="flip"
+        ptr:ptrMode="both" >
+     </com.higgs.qqzone1.pulltorefresh.library.PullToRefreshListView>
+
+</LinearLayout>

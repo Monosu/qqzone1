@@ -1,0 +1,162 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Tab_MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center|bottom"
+        android:paddingBottom="30dp"
+         >
+
+        <LinearLayout
+            android:id="@+id/shuoshuo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:onClick="mood"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00000000"
+                android:src="@drawable/tabbar_btn_popup_talk" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="说说"
+                android:textColor="#383838"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/shuoshuo"
+            android:layout_toRightOf="@id/shuoshuo"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:onClick="image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00000000"
+                android:src="@drawable/tabbar_btn_popup_transferphotos" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="照片"
+                android:textColor="#383838"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/camera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/photo"
+            android:layout_toRightOf="@id/photo"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00000000"
+                android:src="@drawable/tabbar_btn_popup_watermarkcamera" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="水印相机"
+                android:textColor="#383838"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/shiping"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/camera"
+            android:layout_toRightOf="@id/camera"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00000000"
+                android:src="@drawable/tabbar_btn_popup_video" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="视屏"
+                android:textColor="#383838"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/qiandao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/shuoshuo"
+            android:layout_below="@id/shuoshuo"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00000000"
+                android:src="@drawable/tabbar_btn_popup_registration" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="签到"
+                android:textColor="#383838"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/qiandao"
+            android:layout_toRightOf="@id/qiandao"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00000000"
+                android:src="@drawable/tabbar_btn_popup_addmore" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="添加应用"
+                android:textColor="#383838"/>
+            </LinearLayout>
+    </RelativeLayout>
+	<FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         >
+        <ImageButton
+            android:id="@+id/zhong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:background="@drawable/qz_bg_skin_toolbar_btn_pressed"
+            android:onClick="zhong"
+            android:src="@drawable/qz_icon_toolbar_plusback" />
+    </FrameLayout>
+</LinearLayout>

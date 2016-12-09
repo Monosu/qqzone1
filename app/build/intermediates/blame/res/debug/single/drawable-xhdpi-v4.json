@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qz_pic_homepage_wallpaper.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_pic_homepage_wallpaper.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qzone_cover_widget_bg_constellation.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_widget_bg_constellation.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qzone_cover_widget_thumb_bg.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_widget_thumb_bg.jpg"
+    }
+]

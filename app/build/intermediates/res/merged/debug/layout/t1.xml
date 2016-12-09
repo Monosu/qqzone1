@@ -1,0 +1,68 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:id="@+id/t1"
+    >
+	<include layout="@layout/top_title"> 
+	</include>
+	<RelativeLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="200dp"
+	    android:background="@drawable/qz_pic_homepage_wallpaper">
+	    <TableLayout 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentRight="true"
+	        android:layout_alignParentBottom="true">
+	        <TableRow 
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content">
+	            <ImageView 
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_gravity="center_vertical"
+	            android:src="@drawable/qz_icon_open_vip"/>
+	            <LinearLayout
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginLeft="20dp"
+	            android:orientation="vertical" >
+
+	            <TextView
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:text="契合:处女座"
+	                android:textColor="#ffffff" />
+
+	            <TextView
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:text="提防:双子座"
+	                android:textColor="#ffffff" />
+	        </LinearLayout>
+	        </TableRow>
+	        <TableRow 
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content">
+	            <TextView 
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textColor="#FBE279"
+	            android:text="水瓶座"
+	            />
+	        <RatingBar
+	        android:id="@+id/ratingBar1"
+	        android:layout_width="fill_parent"
+	        android:layout_height="22dp"
+	        style="@style/foodRatingBar"
+	        />
+	        </TableRow>
+	    </TableLayout>
+	</RelativeLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="第一个页面" />
+</FrameLayout>

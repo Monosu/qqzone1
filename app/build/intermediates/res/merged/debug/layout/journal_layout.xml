@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+   
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="#22262E"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/cancal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/qz_btn_skin_navbar_back_normal"
+            android:onClick="returnup"
+            android:text="返回"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/cancal"
+            android:layout_alignBottom="@+id/cancal"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/btn_mood"
+            android:onClick="newxiangce"
+            android:text="写日志"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/button1"
+            android:background="@drawable/qz_bg_imgnavbar_btn"
+            android:text="摘要" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="66dp"
+            android:layout_toRightOf="@+id/cancal"
+            android:background="@drawable/qz_bg_imgnavbar_btn"
+            android:text="列表" />
+
+    </RelativeLayout>
+	
+	<ListView 
+	    android:id="@+id/myjournallist"
+	    android:layout_width="fill_parent"
+	    android:layout_weight="1"
+	    android:layout_height="0dp"></ListView>
+    
+
+</LinearLayout>

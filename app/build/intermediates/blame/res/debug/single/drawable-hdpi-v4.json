@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qz_activity_guide_bg1.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_activity_guide_bg1.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qz_activity_guide_bg4.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_activity_guide_bg4.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filter_colorful.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\filter_colorful.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_mood.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\open_mood.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\more.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_image_mood.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\add_image_mood.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qz_guide_bg.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_guide_bg.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qz_bg_setup.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_setup.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filter_sunshine1.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\filter_sunshine1.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\home.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qz_bg_nodata_groupalbums_blank.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_nodata_groupalbums_blank.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mood_icon_send.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\mood_icon_send.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qz_bg_pull_to_refresh.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_pull_to_refresh.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_mood.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\location_mood.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lianjie_qq.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\lianjie_qq.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qz_bg_nodata_common_blankpage.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_nodata_common_blankpage.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qq_weibo.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qq_weibo.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\friendfeed.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\friendfeed.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_mood_send.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_mood_send.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qz_activity_guide_bg2.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_activity_guide_bg2.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dd.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\dd.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qz_bg_voice_gift.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_voice_gift.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filter_sunshine3.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\filter_sunshine3.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhong.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\zhong.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cc.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\cc.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_userhead.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\default_userhead.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\myfeed.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\myfeed.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qz_activity_guide_bg3.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_activity_guide_bg3.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_mood.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_mood.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qz_bg_voice.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_voice.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filter_sunshine2.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\filter_sunshine2.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhongo.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\zhongo.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bb.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\bb.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qz_pic_birthday.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_pic_birthday.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mood_fujian_icon.xml",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\mood_fujian_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qz_readcenter_guide.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_readcenter_guide.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filter_jiaopian_black.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\filter_jiaopian_black.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qz_pic_homepage_wallpaper.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_pic_homepage_wallpaper.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aa.jpg",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\aa.jpg"
+    }
+]
