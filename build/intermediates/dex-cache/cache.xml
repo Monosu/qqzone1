@@ -4,11 +4,38 @@
     <item
         is-multidex="false"
         jar="D:\AndroidSDK_AS\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\AndroidProject\qqzone1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_521cebcbc49a1ac45b3c60923056909a5ebdb57a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProject\qqzone1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1607ac09ef5c7761b800c4ed9146789293c7cbf2">
+        <dex dex="D:\AndroidProject\qqzone1\app\build\intermediates\pre-dexed\debug\instant-run_83371b9b0d3fe8a1c2ff0f3751262a9949bd05ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSDK_AS\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
         <dex dex="D:\AndroidProject\qqzone1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_521cebcbc49a1ac45b3c60923056909a5ebdb57a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProject\qqzone1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6214afc978f75dab56604135a18e6374b8e748ba">
+        <dex dex="D:\AndroidProject\qqzone1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ff6270f94c4694035b54b241443c1a50a493e1c9.jar" />
     </item>
 
 </items>

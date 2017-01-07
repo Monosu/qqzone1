@@ -55,12 +55,12 @@ public class ImageActivity extends Activity {
 		} else {
 			if (paramInt == SELECT_PIC_BY_PICK_PHOTO) {
 				if (paramIntent == null) {
-					Toast.makeText(this, "选择图片文件出错", 1).show();
+					Toast.makeText(this, "选择图片文件出错", Toast.LENGTH_SHORT).show();
 					return;
 				}
 				this.photoUri = paramIntent.getData();
 				if (this.photoUri == null) {
-					Toast.makeText(this, "选择图片文件出错", 1).show();
+					Toast.makeText(this, "选择图片文件出错", Toast.LENGTH_SHORT).show();
 					return;
 				}
 			}
@@ -87,7 +87,7 @@ public class ImageActivity extends Activity {
 			}
 		}
 
-		Toast.makeText(this, "选择图片文件不正确", 1).show();
+		Toast.makeText(this, "选择图片文件不正确", Toast.LENGTH_SHORT).show();
 	}
 	
 	public boolean saveBit(Bitmap oBitmap, File oFile) {

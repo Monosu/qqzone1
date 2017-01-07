@@ -1204,12 +1204,12 @@
         "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\line_more_vertical.png"
     },
     {
-        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_uploadhotos.png",
-        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_uploadhotos.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\filter_tv_overlay.png",
         "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\filter_tv_overlay.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_uploadhotos.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\btn_uploadhotos.png"
     },
     {
         "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_beginnersguide_lbs_sign.png",
@@ -1448,12 +1448,12 @@
         "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_bg_tabbar_point_new.png"
     },
     {
-        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_feeds_longpic.png",
-        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_feeds_longpic.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_gong_01.png",
         "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_gong_01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_icon_feeds_longpic.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-hdpi\\qz_icon_feeds_longpic.png"
     },
     {
         "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qz_filter_v35_film.png",

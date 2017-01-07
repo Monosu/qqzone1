@@ -16,12 +16,12 @@
         "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-nodpi\\title_black_ok_normal.png"
     },
     {
-        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\title_black_press_right.png",
-        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-nodpi\\title_black_press_right.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\qz_bg_speech_giftlist_record_pressed.png",
         "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-nodpi\\qz_bg_speech_giftlist_record_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\title_black_press_right.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-nodpi\\title_black_press_right.png"
     },
     {
         "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\qz_bg_http_cancel_normal.png",

@@ -240,12 +240,12 @@
         "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_sun.png"
     },
     {
-        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_hostinfo_item_bottom.9.png",
-        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_hostinfo_item_bottom.9.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_bg_navbar_normal.9.png",
         "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_bg_navbar_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_hostinfo_item_bottom.9.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_hostinfo_item_bottom.9.png"
     },
     {
         "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\thirdparty_btn_popup_other_click.png",
@@ -332,12 +332,12 @@
         "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_lunar_one.png"
     },
     {
-        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_7.png",
-        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_7.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qz_btn_at_normal.png",
         "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qz_btn_at_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_weather_7.png",
+        "source": "D:\\AndroidProject\\qqzone1\\app\\src\\main\\res\\drawable-xhdpi\\qzone_cover_weather_7.png"
     },
     {
         "merged": "D:\\AndroidProject\\qqzone1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qzone_cover_widget_bg_lunar.png",

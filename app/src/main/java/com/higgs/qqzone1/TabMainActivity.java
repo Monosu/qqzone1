@@ -7,7 +7,7 @@ import android.os.Bundle;
  * Created by linxi on 2016/12/9.
  */
 
-public class TabMain extends Activity {
+public class TabMainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

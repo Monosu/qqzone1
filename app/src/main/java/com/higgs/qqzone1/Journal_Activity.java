@@ -57,10 +57,12 @@ public class Journal_Activity extends Activity {
 			}
 		});
 	}
+
 	BaseAdapter adapter=new BaseAdapter() {
 		
 		@Override
 		public View getView(int position, View convertView, ViewGroup parent) {
+
 			View view=getLayoutInflater().inflate(R.layout.list_journal_list_item, null);
 			TextView title=(TextView)view.findViewById(R.id.title);
 			TextView posttime=(TextView)view.findViewById(R.id.posttime);
@@ -95,7 +97,7 @@ public class Journal_Activity extends Activity {
 			public void run() {
 					JournalBiz oBiz=new JournalBiz();
 					oList=oBiz.getList();
-					if (oList!=null&oList.size()>0) {
+					if (oList!=null&&oList.size()>0) {
 						myHandler.sendEmptyMessage(0x123);
 					}
 			};

@@ -54,12 +54,12 @@ public class SelectPhotoActicity extends Activity implements
 		} else {
 			if (paramInt == SELECT_PIC_BY_PICK_PHOTO) {
 				if (paramIntent == null) {
-					Toast.makeText(this, "选择图片文件出错", 1).show();
+					Toast.makeText(this, "选择图片文件出错", Toast.LENGTH_SHORT).show();
 					return;
 				}
 				this.photoUri = paramIntent.getData();
 				if (this.photoUri == null) {
-					Toast.makeText(this, "选择图片文件出错", 1).show();
+					Toast.makeText(this, "选择图片文件出错", Toast.LENGTH_LONG).show();
 					return;
 				}
 			}
@@ -86,7 +86,7 @@ public class SelectPhotoActicity extends Activity implements
 			}
 		}
 
-		Toast.makeText(this, "选择图片文件不正确", 1).show();
+		Toast.makeText(this, "选择图片文件不正确", Toast.LENGTH_SHORT).show();
 	}
 
 	private void initView() {
@@ -130,7 +130,7 @@ public class SelectPhotoActicity extends Activity implements
 			}
 
 		}
-		Toast.makeText(this, "内存卡不存在", 1).show();
+		Toast.makeText(this, "内存卡不存在", Toast.LENGTH_SHORT).show();
 	}
 
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
