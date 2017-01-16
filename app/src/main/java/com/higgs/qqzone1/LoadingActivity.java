@@ -26,7 +26,7 @@ public class LoadingActivity extends Activity {
 				startActivity(oIntent);
 			}
 			finish();
-		};
+		}
 	};
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO 自动生成的方法存根
@@ -37,15 +37,16 @@ public class LoadingActivity extends Activity {
 				try {
 					UserInfoBiz.getLoginUserInfo();
 					Thread.sleep(2000);
-					shared=getSharedPreferences("qq", MODE_WORLD_READABLE);
+					shared=getSharedPreferences("qq", MODE_PRIVATE);
+					//登录信息为空，并且本地记录已登陆为假，则跳转至loginativity
 					if (SysConfig.loginUserInfo == null
 							&&!(shared.getBoolean("islogin", true))) {
 
-						//oHandler.sendEmptyMessage(0X13);
-						oHandler.sendEmptyMessage(0x12);
+						oHandler.sendEmptyMessage(0X13);
+						//oHandler.sendEmptyMessage(0x12);
 					} else {
-						//oHandler.sendEmptyMessage(0X12);
-						oHandler.sendEmptyMessage(0x13);
+						oHandler.sendEmptyMessage(0X12);
+						//oHandler.sendEmptyMessage(0x13);
 					}
 				} catch (Exception e) {
 					// TODO: handle exception
