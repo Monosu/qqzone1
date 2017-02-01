@@ -12,7 +12,7 @@ import com.higgs.qqzone1.common.SysConfig;
 import com.higgs.qqzone1.common.UtiyCommon;
 
 /**
- * 全局application对象.从activitie启动到结束一直存在。隐式的一个窗体。可以使用它来做初始化及全局消息弹送操作
+ * 全局application对象.从activity启动到结束一直存在。隐式的一个窗体。可以使用它来做初始化及全局消息弹送操作
  * 
  * @author Administrator
  * 
@@ -38,7 +38,7 @@ public class AppApplication extends Application {
 		
 	}
 
-	// 定义一个全局静态toaskMessage方法。所有的类都可以通过这个方法弹出消息提示。而不需要通过传递activitie来实现
+	// 定义一个全局静态toaskMessage方法。所有的类都可以通过这个方法弹出消息提示。而不需要通过传递activity来实现
 	public static void toaskMessage(String message) {
 		if (!TextUtils.isEmpty(message)) {
 			Message oMessage = new Message();

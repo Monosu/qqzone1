@@ -20,9 +20,13 @@ public class DomXml {
 		Document oDocument = null;
 		DocumentBuilder oBuilder = null;
 		try {
+			//通过documentBuilderFactory创建documentBuilder对象
 			oBuilder = oFactory.newDocumentBuilder();
+			//创建输入源对象
 			InputSource is = new InputSource();
+			//设置转换流文件
 			is.setCharacterStream(new StringReader(context));
+			//解析成document对象
 			oDocument = oBuilder.parse(is);
 		} catch (Exception e) {
 			// TODO: handle exception

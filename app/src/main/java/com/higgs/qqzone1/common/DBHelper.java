@@ -49,7 +49,9 @@ public class DBHelper {
 		boolean result = false;
 		if (parm != null && parm.size() > 0) {
 			ContentValues parmValues = new ContentValues();
+			//把每个键转为代表的列名
 			for (String rowName : parm.keySet()) {
+				//取键值对
 				parmValues.put(rowName, parm.get(rowName));
 			}
 			result = db.insert(tableName, null, parmValues) > 0;
@@ -124,7 +126,7 @@ public class DBHelper {
 	 * 
 	 * @param sql
 	 *            要执行的sql语句 如：select * from userinfo where id = ?
-	 * @param parm
+	 *
 	 *            执行sql语句的参数。没有值为null 有则为String[]{'1'}
 	 * @return
 	 */
@@ -159,7 +161,7 @@ public class DBHelper {
 	 * 
 	 * @param sql
 	 *            要执行的sql语句 如：select * from userinfo where id = ?
-	 * @param parm
+	 *
 	 *            执行sql语句的参数。没有值为null 有则为String[]{'1'}
 	 * @return
 	 */

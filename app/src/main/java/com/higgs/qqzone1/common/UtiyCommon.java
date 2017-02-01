@@ -10,6 +10,8 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.text.TextUtils;
 
+import static android.content.Context.CONNECTIVITY_SERVICE;
+
 public class UtiyCommon {
 	/**
 	 * 将日期转换成指定的格式默认为yyyy-MM-dd hh:mm:ss
@@ -166,7 +168,7 @@ public class UtiyCommon {
 		boolean result = false;
 		try {
 			ConnectivityManager oManager = (ConnectivityManager) oContext
-					.getSystemService("connectivity");
+					.getSystemService(CONNECTIVITY_SERVICE);
 			if (oManager != null) {
 				NetworkInfo oNetworkInfo = oManager.getActiveNetworkInfo();
 				if (oNetworkInfo != null) {

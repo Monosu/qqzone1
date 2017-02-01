@@ -49,21 +49,22 @@ public class HttpCommon {
 	 * 
 	 * @param url
 	 *            访问的具体页面
-	 * @param parmt
+	 * @param parm
 	 *            需要传输的参数
 	 * @return 服务端返回信息
 	 */
-	public static String doGet(String url, HashMap<String, String> parmt) {
+	public static String doGet(String url, HashMap<String, String> parm) {
 		if (!AppApplication.isWork()) {
 			return "";
 		}
 
 		StringBuffer getUrl = new StringBuffer(serviceUrl + url);
 		// 判断是否需要传递参数
-		if (parmt != null) {
+		if (parm != null) {
 			// 如果url没有存在?需要先添加?
-			//indexOf()返回字符在字符串中首次出现的位置从0开始
-			if (getUrl.indexOf("?") < 1) {
+			//indexOf()返回字符在字符串中首次出现的位置从0开始,
+			// 返回字符中indexof（string）中子串string在父串中首次出现的位置，从0开始！没有返回-1；
+			if (getUrl.indexOf("?") < 0) {
 				getUrl.append("?");
 			}
 			// 判断URL如果有带参数,并且最后一个不是&则追加一个&
@@ -73,8 +74,8 @@ public class HttpCommon {
 				getUrl.append("&");
 			}
 			// 循环拼接url
-			for (String key : parmt.keySet()) {
-				getUrl.append(key + "=" + parmt.get(key));
+			for (String key : parm.keySet()) {
+				getUrl.append(key + "=" + parm.get(key));
 				getUrl.append("&");
 			}
 			//删掉最后个&
